@@ -1,0 +1,6 @@
+(+ 2 2)
+(concat "abc" "def")
+(fill-column);does not appear to work
+(message (concat "abc" "def" "hijk"))
+(setq counter 0) ;run this first
+(setq counter (+ counter 1)) ;an incrementer
