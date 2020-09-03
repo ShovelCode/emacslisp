@@ -1,0 +1,5 @@
+(message "hello world")
+(defun tri (n)
+(if (= n 1)
+ (concat "aaa" "bbb")))
+(tri 1)
